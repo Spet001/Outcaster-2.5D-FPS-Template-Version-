@@ -103,7 +103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 0}
-  viewportPosition: {x: 0.5, y: 0.41}
+  viewportPosition: {x: 0.5, y: 0.28}
   distanceFromCamera: 0.86
 --- !u!114 &4596161723003407649
 MonoBehaviour:
